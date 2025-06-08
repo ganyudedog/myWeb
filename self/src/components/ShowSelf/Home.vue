@@ -96,7 +96,6 @@ setInterval(() => {
             <ul class="myself">
                 <li>曾林锐</li>
                 <li>中南大学</li>
-                <li>软件工程2401</li>
             </ul>
             <!-- 结束 -->
 
